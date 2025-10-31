@@ -1,8 +1,6 @@
 {
-    "aa": {
-        "pet_id": "Huge Cat",
-        "message": "YO"
-    },
-    "bb": true,
-    "cc": true
+    "DevGamesHolder1": {
+        "pet_id": "aa",
+        "message": "Sigma"
+    }
 }
